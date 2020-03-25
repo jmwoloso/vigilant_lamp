@@ -1,4 +1,4 @@
-# Lighthouse Data Challenge
+# Lighthouse Data Science Challenge
 Welcome to the Lighthouse data challenge, we are glad you are here! 
 
 Let's get started. 
