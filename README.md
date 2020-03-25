@@ -30,8 +30,8 @@ products.
 We are interested in gauging your ability to take a machine learning 
 project from conception to reality. In this data challenge, you are 
 tasked with building a classification model using the supplied dataset.
-To complete this challenge, you will need to create a fork of this
-repository and commit your changes to the fork. When you are satisfied
+To complete this challenge, you will need to clone this
+repository and commit your changes to the clone. When you are satisfied
 with your model, open a pull request to this repository. Before opening 
 a pull request, ensure that you have met the requirements
 specified below.
