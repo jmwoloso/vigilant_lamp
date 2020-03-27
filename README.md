@@ -5,7 +5,8 @@ Let's get started.
 
 Take some time to read the instructions below. If you have
 any questions _before you begin_, please send an email to 
-[jwolosonov@lighthouseglobal.com](mailto:jwolosonov@lighthouseglobal.com)
+[jwolosonov@lighthouseglobal.com](mailto:jwolosonov@lighthouseglobal.com) & 
+[gwilliamson@lighthouseglobal.com](mailto:gwilliamson@lighthouseglobal.com)
 and we will do our best to address your question(s) in a timely manner.
 
 
@@ -18,10 +19,10 @@ opportunity to obtain facts and legal information (i.e. evidence) from
 the opposing party. We have developed a robust, industry-leading set of 
 technologies that allow our clients to quickly and efficiently traverse 
 vast amounts of information to ensure full compliance with the discovery
-process. At Lighthouse, innovation runs deep. We are dedicated to our providing
+process. At Lighthouse, innovation runs deep. We are dedicated to providing
 our clients with state-of-the-art technologies that enable them to 
 navigate the discovery process more efficiently. To that end, we are continuosly researching new and emerging 
-technologies, incorporating the most promising among them into our 
+technologies, while incorporating the most promising among them into our 
 products.
 
 
@@ -78,11 +79,15 @@ using any data sources other than what you might find in the CSV files._
 ## Code Requirements
 You are required to complete this challenge using Python 3 
 (version 3.6 or later). Within that scope, you are free to use whichever
-libraries and frameworks allow you to get the job done.
+libraries and frameworks available to you to get the job done.
 
 We will attempt to run your code as-is, so you should include everything
 we might need (or some mechanism for getting everything we might need)
 to successfully run your code.
+
+As a precaution, please scan all code to ensure no malware/virus are included
+in your code for our safety.  As a mitigation, please add screen shots to your
+solutions, if possible. 
 
 ## Evaluation
 For this challenge, _you_ are tasked with selecting the appropriate
@@ -90,11 +95,11 @@ metric(s) with which to evaluate your model. As mentioned above, you will
 need to provide justification for your choice(s).
 
 ## Timeline
-There is no pre-determined timeline for the project, however it is
-important to remember that you are competing against other candidates.
+You as a candidate have 7 days in order to complete and submit your pull request 
+for review, but remember their are other candidates being considered for this position. 
 
 ## Submission Instructions
 Once your confident in your solution, submit a pull request and our team
-will evaluate your solution.
+will evaluate your solution. 
 
 Good luck!
