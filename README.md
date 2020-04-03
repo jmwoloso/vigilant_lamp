@@ -5,7 +5,8 @@ Let's get started.
 
 Take some time to read the instructions below. If you have
 any questions _before you begin_, please send an email to 
-[jwolosonov@lighthouseglobal.com](mailto:jwolosonov@lighthouseglobal.com)
+[jwolosonov@lighthouseglobal.com](mailto:jwolosonov@lighthouseglobal.com) &
+[gwilliamson@lighthouseglobal.com](mailto:gwilliamson@lighthouseglobal.com)
 and we will do our best to address your question(s) in a timely manner.
 
 
@@ -18,10 +19,12 @@ opportunity to obtain facts and legal information (i.e. evidence) from
 the opposing party. We have developed a robust, industry-leading set of 
 technologies that allow our clients to quickly and efficiently traverse 
 vast amounts of information to ensure full compliance with the discovery
-process. At Lighthouse, innovation runs deep. We are dedicated to our providing
+process.
+
+At Lighthouse, innovation runs deep. We are dedicated to providing
 our clients with state-of-the-art technologies that enable them to 
 navigate the discovery process more efficiently. To that end, we are continuosly researching new and emerging 
-technologies, incorporating the most promising among them into our 
+technologies, and incorporating the most promising among them into our 
 products.
 
 
@@ -90,8 +93,9 @@ metric(s) with which to evaluate your model. As mentioned above, you will
 need to provide justification for your choice(s).
 
 ## Timeline
-There is no pre-determined timeline for the project, however it is
-important to remember that you are competing against other candidates.
+As a candidate, you have 7 days in order to complete and submit your pull
+request for review, but remember, there are other candidates being considered
+for this position as well.
 
 ## Submission Instructions
 Once your confident in your solution, submit a pull request and our team
